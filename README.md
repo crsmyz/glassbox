@@ -12,7 +12,7 @@ Philadelphia legislation and issue tracking.
 - As a user I want to see legislation during the political process.
 - As a user I want to see legislation that is getting passed into law.
 
-### MVP Features:
+#### MVP Features:
 
 1. Website
 2. Registration/Sign Up/Sign In
@@ -20,7 +20,7 @@ Philadelphia legislation and issue tracking.
 5. Feed of Legislation
 6. Full legislation
 
-### Backlog
+#### Backlog
 
 1. Legislation filter
 2. Summary of Legislation
