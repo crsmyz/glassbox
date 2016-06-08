@@ -10,16 +10,18 @@ Philadelphia legislation and issue tracking.
 - As city council I want to keep legislation updated to the app.
 - As a user I want to see legislation being proposed to city government.
 - As a user I want to see legislation during the political process.
-  - As a user I want to see the people supporting this legislation.
-  - As a user I want to see how many votes the legislation has.
 - As a user I want to see legislation that is getting passed into law.
 
 ### MVP Features:
 
-1. 
+1. Website
+2. Registration/Sign Up/Sign In
+4. About Page
+5. Feed of Legislation
+6. Full legislation
 
-2.
+### Backlog
 
-3.
-
-4.
+1. Legislation filter
+2. Summary of Legislation
+3. Legislation search
