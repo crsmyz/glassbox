@@ -2,9 +2,9 @@
 
 Philadelphia legislation and issue tracking.
 
-### Roadmap
+## Roadmap
 
-User Stories
+### User Stories
 
 - As city council I want to post new legislation in the app.
 - As city council I want to keep legislation updated to the app.
@@ -14,7 +14,7 @@ User Stories
   - As a user I want to see how many votes the legislation has.
 - As a user I want to see legislation that is getting passed into law.
 
-MVP Features:
+### MVP Features:
 
 1. 
 
