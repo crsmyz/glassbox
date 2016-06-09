@@ -1,3 +1,8 @@
 html, body {
     background-color: aquamarine;
 }
+
+.bg-img {
+    background-image:ulr('images/congress.jpg');
+    width: 100%;
+}
