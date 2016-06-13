@@ -20,6 +20,14 @@ Philadelphia legislation and issue tracking.
 5. Feed of Legislation
 6. Full legislation
 
+##### Tech Requirements
+
+1. Need a feed of legislation
+2. Need a database
+3. 
+
+
+
 #### Backlog
 
 1. Legislation filter
