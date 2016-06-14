@@ -4,6 +4,10 @@ Philadelphia legislation and issue tracking.
 
 ## Roadmap
 
+### Goal
+
+**Make local legislation more accessible to the people living in Philadelphia**
+
 #### User Stories
 
 - As city council I want to post new legislation in the app.
