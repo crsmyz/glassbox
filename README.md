@@ -23,10 +23,9 @@ Philadelphia legislation and issue tracking.
 ##### Tech Requirements
 
 1. Need a feed of legislation
-2. Need a database
+2. Need a database (for storing: user authentication + scraped data)
 3. Need a web scraper
-
-
+4. Need a web interface
 
 #### Backlog
 
