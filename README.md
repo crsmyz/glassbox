@@ -25,10 +25,10 @@ Philadelphia legislation and issue tracking.
 
 #### Tech Requirements
 
-1. Need a feed of legislation - (pulls from)
-2. Need a database (for storing: user authentication + scraped data)
-3. Need a web scraper (https://phila.legistar.com/Legislation.aspx)
-4. Need a web interface
+1. Need a feed of legislation - 1 week
+2. Need a database - 2 weeks (for storing: user authentication + scraped data)
+3. Need a web scraper - 1 week (https://phila.legistar.com/Legislation.aspx)
+4. Need a web interface - 1 week
 
 #### Backlog
 
