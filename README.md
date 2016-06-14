@@ -24,7 +24,7 @@ Philadelphia legislation and issue tracking.
 
 1. Need a feed of legislation
 2. Need a database
-3. 
+3. Need a web scraper
 
 
 
