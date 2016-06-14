@@ -22,7 +22,6 @@ Philadelphia legislation and issue tracking.
 2. Registration/Sign Up/Sign In
 4. About Page
 5. Feed of Legislation
-6. Full legislation
 
 #### Tech Requirements
 
@@ -36,3 +35,4 @@ Philadelphia legislation and issue tracking.
 1. Legislation filter
 2. Summary of Legislation
 3. Legislation search
+4. Full legislation
